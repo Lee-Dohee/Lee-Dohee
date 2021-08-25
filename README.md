@@ -9,20 +9,20 @@
 ![css](https://img.shields.io/badge/-CSS-336699?style=flat-square&logo=css3&logoColor=white)
 
 ## Programs of use💻
-![flutter](https://img.shields.io/badge/-Flutter-99CCFF?style=flat-square&logo=flutter&logoColor=white)
-![xcode](https://img.shields.io/badge/-Xcode-6699FF?style=flat-square&logo=Xcode&logoColor=white)
-![VisualStudio](https://img.shields.io/badge/-VisualStudio-3333FF?style=flat-square&logo=VisualStudio&logoColor=white)
-![eclipse](https://img.shields.io/badge/-Eclipse-333366?style=flat-square&logo=Eclipse&logoColor=white)
-![mysql](https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=mysql&logoColor=white)
+![flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white)
+![VisualStudio](https://img.shields.io/badge/-VisualStudio-007ACC?style=flat-square&logo=VisualStudio&logoColor=white)
+![eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white)
+![mysql](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![spring](https://img.shields.io/badge/-Spring-33CC33?style=flat-square&logo=Spring&logoColor=white)
-![android](https://img.shields.io/badge/-AndroidStudio-darkgreen?style=flat-square&logo=android&logoColor=white)
-![photo](https://img.shields.io/badge/-Photoshop-330099?style=flat-square&logo=adobe&logoColor=white)
-![illustrator](https://img.shields.io/badge/-Illustrator-FF9900?style=flat-square&logo=adobe&logoColor=white)
+![spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![android](https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat-square&logo=android&logoColor=white)
+![photo](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe&logoColor=white)
+![illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe&logoColor=white)
 
 ## Contact about me🙋🏻‍♀️
 [![MyHomePage](https://img.shields.io/badge/MyHomePage-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white)](https://lee-dohee.github.io/Portfolio3/)
-[![kakao](https://img.shields.io/badge/-kakao-yellow?style=flat-square&logo=kakaotalk&logoColor=white)](https://open.kakao.com/o/skJlWewd)
+[![kakao](https://img.shields.io/badge/-kakao-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white)](https://open.kakao.com/o/skJlWewd)
 [![dohui.work@gmail.com](https://img.shields.io/badge/dohui.work@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/)
 
 <!--
