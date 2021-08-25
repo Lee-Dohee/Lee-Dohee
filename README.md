@@ -20,7 +20,7 @@
 ## Contact about me🙋🏻‍♀️
 [![MyHomePage](https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white)](https://lee-dohee.github.io/Portfolio3/)
 [![kakao](https://img.shields.io/badge/-kakao-yellow?style=flat-square&logo=kakaotalk&logoColor=white)](https://open.kakao.com/o/skJlWewd)
-[![gmail](https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/)
+[![dohui.work@gmail.com](https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/)
 
 <!--
 **k-ye0415/k-ye0415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
