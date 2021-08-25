@@ -3,11 +3,13 @@
 ## Language of use✍🏻
 ![java](https://img.shields.io/badge/-java-red?style=flat-square&logo=java&logoColor=white)
 ![swift](https://img.shields.io/badge/-Swift-yellowgreen?style=flat-square&logo=swift&logoColor=white)
+![dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart&logoColor=white)
 ![python](https://img.shields.io/badge/-Python-FFCC66?style=flat-square&logo=Python&logoColor=black)
 ![html](https://img.shields.io/badge/-HTML-CC3333?style=flat-square&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/-CSS-336699?style=flat-square&logo=css3&logoColor=white)
 
 ## Programs of use💻
+![flutter](https://img.shields.io/badge/-Flutter-99CCFF?style=flat-square&logo=flutter&logoColor=white)
 ![mysql](https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=mysql&logoColor=white)
 ![eclipse](https://img.shields.io/badge/-Eclipse-333366?style=flat-square&logo=Eclipse&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-3333FF?style=flat-square&logo=VisualStudio&logoColor=white)
