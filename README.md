@@ -4,7 +4,7 @@
 ![java](https://img.shields.io/badge/-java-007396?style=flat-square&logo=java&logoColor=white)
 ![swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=black)
+![python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![html](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
