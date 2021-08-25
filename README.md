@@ -1,12 +1,12 @@
 ## Hello Wrold! 👋
 
 ## Language of use✍🏻
-![java](https://img.shields.io/badge/-java-red?style=flat-square&logo=java&logoColor=white)
-![swift](https://img.shields.io/badge/-Swift-yellowgreen?style=flat-square&logo=swift&logoColor=white)
-![dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart&logoColor=white)
-![python](https://img.shields.io/badge/-Python-FFCC66?style=flat-square&logo=Python&logoColor=black)
-![html](https://img.shields.io/badge/-HTML-CC3333?style=flat-square&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/-CSS-336699?style=flat-square&logo=css3&logoColor=white)
+![java](https://img.shields.io/badge/-java-007396?style=flat-square&logo=java&logoColor=white)
+![swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=black)
+![html](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ## Programs of use💻
 ![flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -22,7 +22,7 @@
 
 ## Contact about me🙋🏻‍♀️
 [![MyHomePage](https://img.shields.io/badge/MyHomePage-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white)](https://lee-dohee.github.io/Portfolio3/)
-[![kakao](https://img.shields.io/badge/-kakao-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white)](https://open.kakao.com/o/skJlWewd)
+[![kakao](https://img.shields.io/badge/-kakao-yellow?style=flat-square&logo=kakaotalk&logoColor=white)](https://open.kakao.com/o/skJlWewd)
 [![dohui.work@gmail.com](https://img.shields.io/badge/dohui.work@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/)
 
 <!--
