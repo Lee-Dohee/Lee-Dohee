@@ -18,9 +18,8 @@
 ![illustrator](https://img.shields.io/badge/-Illustrator-FF9900?style=flat-square&logo=adobe&logoColor=white)
 
 ## Contact about me🙋🏻‍♀️
-![git](https://img.shields.io/badge/-GitHub-990099?style=flat-square&logo=GitHub&logoColor=white)
-![notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&logoColor=white)
-![slack](https://img.shields.io/badge/-Slack-CC9900?style=flat-square&logo=slack&logoColor=white)
+[![kakao](https://img.shields.io/badge/-kakao-yellow?style=flat-square&logo=kakaotalk&logoColor=white)](https://open.kakao.com/o/skJlWewd)
+[![mail](https://img.shields.io/badge/-Naver-green?style=flat-square&logo=naver&logoColor=white)](https://mail.naver.com/)
 
 <!--
 **k-ye0415/k-ye0415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
