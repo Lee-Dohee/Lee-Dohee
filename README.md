@@ -18,7 +18,7 @@
 ![illustrator](https://img.shields.io/badge/-Illustrator-FF9900?style=flat-square&logo=adobe&logoColor=white)
 
 ## Contact about me🙋🏻‍♀️
-[![MyHomePage](https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white)](https://lee-dohee.github.io/Portfolio3/)
+[![MyHomePage](https://img.shields.io/badge/MyHomePage-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white)](https://lee-dohee.github.io/Portfolio3/)
 [![kakao](https://img.shields.io/badge/-kakao-yellow?style=flat-square&logo=kakaotalk&logoColor=white)](https://open.kakao.com/o/skJlWewd)
 [![dohui.work@gmail.com](https://img.shields.io/badge/dohui.work@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/)
 
